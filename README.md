@@ -1,4 +1,4 @@
-![CDNJS](https://img.shields.io/badge/python-2.7-blue) ![CDNJS](https://img.shields.io/badge/coded-Zen%20Gans-orange)
+![CDNJS](https://img.shields.io/badge/python-2.7-blue) ![CDNJS](https://img.shields.io/badge/coded-Ariya%20Saputra-orange)
 ## Install
 ```
 $ pkg update && pkg upgrade

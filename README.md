@@ -1,5 +1,5 @@
 ![CDNJS](https://img.shields.io/badge/python-2.7-blue) ![CDNJS](https://img.shields.io/badge/coded-Ariya%20Saputra-orange)
-## Facebook Tools v1
+## Facebook Tools v1.0
 ### Install
 ```
 $ pkg update && pkg upgrade

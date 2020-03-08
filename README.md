@@ -1,5 +1,6 @@
 ![CDNJS](https://img.shields.io/badge/python-2.7-blue) ![CDNJS](https://img.shields.io/badge/coded-Ariya%20Saputra-orange)
-## Install
+## Facebook Tools v1
+### Install
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2

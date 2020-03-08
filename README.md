@@ -11,5 +11,5 @@ $ git clone https://github.com/Ariya-Coder/dk-fb
 $ cd dk-fb
 $ python2 dark.py
 ```
-<img src="https://github.com/Ariya-Coder/Image/blob/master/Screenshot_20191208_080328.jpg" width="95%" alt="screenshot">
+<img src="https://github.com/Ariya-Coder/Image/blob/master/IMG_20200308_150142.JPG" width="100%" alt="screenshot">
 <br>
